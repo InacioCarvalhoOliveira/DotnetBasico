@@ -1,0 +1,16 @@
+/media/inacio/HDD/CURSOS/DOTNET/Console/EditorDeTextos/bin/Debug/net5.0/EditorDeTextos
+/media/inacio/HDD/CURSOS/DOTNET/Console/EditorDeTextos/bin/Debug/net5.0/EditorDeTextos.deps.json
+/media/inacio/HDD/CURSOS/DOTNET/Console/EditorDeTextos/bin/Debug/net5.0/EditorDeTextos.runtimeconfig.json
+/media/inacio/HDD/CURSOS/DOTNET/Console/EditorDeTextos/bin/Debug/net5.0/EditorDeTextos.runtimeconfig.dev.json
+/media/inacio/HDD/CURSOS/DOTNET/Console/EditorDeTextos/bin/Debug/net5.0/EditorDeTextos.dll
+/media/inacio/HDD/CURSOS/DOTNET/Console/EditorDeTextos/bin/Debug/net5.0/ref/EditorDeTextos.dll
+/media/inacio/HDD/CURSOS/DOTNET/Console/EditorDeTextos/bin/Debug/net5.0/EditorDeTextos.pdb
+/media/inacio/HDD/CURSOS/DOTNET/Console/EditorDeTextos/obj/Debug/net5.0/EditorDeTextos.csproj.AssemblyReference.cache
+/media/inacio/HDD/CURSOS/DOTNET/Console/EditorDeTextos/obj/Debug/net5.0/EditorDeTextos.GeneratedMSBuildEditorConfig.editorconfig
+/media/inacio/HDD/CURSOS/DOTNET/Console/EditorDeTextos/obj/Debug/net5.0/EditorDeTextos.AssemblyInfoInputs.cache
+/media/inacio/HDD/CURSOS/DOTNET/Console/EditorDeTextos/obj/Debug/net5.0/EditorDeTextos.AssemblyInfo.cs
+/media/inacio/HDD/CURSOS/DOTNET/Console/EditorDeTextos/obj/Debug/net5.0/EditorDeTextos.csproj.CoreCompileInputs.cache
+/media/inacio/HDD/CURSOS/DOTNET/Console/EditorDeTextos/obj/Debug/net5.0/EditorDeTextos.dll
+/media/inacio/HDD/CURSOS/DOTNET/Console/EditorDeTextos/obj/Debug/net5.0/ref/EditorDeTextos.dll
+/media/inacio/HDD/CURSOS/DOTNET/Console/EditorDeTextos/obj/Debug/net5.0/EditorDeTextos.pdb
+/media/inacio/HDD/CURSOS/DOTNET/Console/EditorDeTextos/obj/Debug/net5.0/EditorDeTextos.genruntimeconfig.cache

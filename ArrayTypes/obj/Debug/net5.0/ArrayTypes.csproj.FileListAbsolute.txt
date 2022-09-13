@@ -1,0 +1,16 @@
+/mnt/HDD/CURSOS/DOTNET/Console/ArrayTypes/bin/Debug/net5.0/ArrayTypes
+/mnt/HDD/CURSOS/DOTNET/Console/ArrayTypes/bin/Debug/net5.0/ArrayTypes.deps.json
+/mnt/HDD/CURSOS/DOTNET/Console/ArrayTypes/bin/Debug/net5.0/ArrayTypes.runtimeconfig.json
+/mnt/HDD/CURSOS/DOTNET/Console/ArrayTypes/bin/Debug/net5.0/ArrayTypes.runtimeconfig.dev.json
+/mnt/HDD/CURSOS/DOTNET/Console/ArrayTypes/bin/Debug/net5.0/ArrayTypes.dll
+/mnt/HDD/CURSOS/DOTNET/Console/ArrayTypes/bin/Debug/net5.0/ref/ArrayTypes.dll
+/mnt/HDD/CURSOS/DOTNET/Console/ArrayTypes/bin/Debug/net5.0/ArrayTypes.pdb
+/mnt/HDD/CURSOS/DOTNET/Console/ArrayTypes/obj/Debug/net5.0/ArrayTypes.csproj.AssemblyReference.cache
+/mnt/HDD/CURSOS/DOTNET/Console/ArrayTypes/obj/Debug/net5.0/ArrayTypes.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/HDD/CURSOS/DOTNET/Console/ArrayTypes/obj/Debug/net5.0/ArrayTypes.AssemblyInfoInputs.cache
+/mnt/HDD/CURSOS/DOTNET/Console/ArrayTypes/obj/Debug/net5.0/ArrayTypes.AssemblyInfo.cs
+/mnt/HDD/CURSOS/DOTNET/Console/ArrayTypes/obj/Debug/net5.0/ArrayTypes.csproj.CoreCompileInputs.cache
+/mnt/HDD/CURSOS/DOTNET/Console/ArrayTypes/obj/Debug/net5.0/ArrayTypes.dll
+/mnt/HDD/CURSOS/DOTNET/Console/ArrayTypes/obj/Debug/net5.0/ref/ArrayTypes.dll
+/mnt/HDD/CURSOS/DOTNET/Console/ArrayTypes/obj/Debug/net5.0/ArrayTypes.pdb
+/mnt/HDD/CURSOS/DOTNET/Console/ArrayTypes/obj/Debug/net5.0/ArrayTypes.genruntimeconfig.cache

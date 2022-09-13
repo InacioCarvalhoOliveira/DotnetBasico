@@ -1,0 +1,16 @@
+/media/inacio/HDD/CURSOS/DOTNET/Console/editorHtml/bin/Debug/net5.0/editorHtml
+/media/inacio/HDD/CURSOS/DOTNET/Console/editorHtml/bin/Debug/net5.0/editorHtml.deps.json
+/media/inacio/HDD/CURSOS/DOTNET/Console/editorHtml/bin/Debug/net5.0/editorHtml.runtimeconfig.json
+/media/inacio/HDD/CURSOS/DOTNET/Console/editorHtml/bin/Debug/net5.0/editorHtml.runtimeconfig.dev.json
+/media/inacio/HDD/CURSOS/DOTNET/Console/editorHtml/bin/Debug/net5.0/editorHtml.dll
+/media/inacio/HDD/CURSOS/DOTNET/Console/editorHtml/bin/Debug/net5.0/ref/editorHtml.dll
+/media/inacio/HDD/CURSOS/DOTNET/Console/editorHtml/bin/Debug/net5.0/editorHtml.pdb
+/media/inacio/HDD/CURSOS/DOTNET/Console/editorHtml/obj/Debug/net5.0/editorHtml.csproj.AssemblyReference.cache
+/media/inacio/HDD/CURSOS/DOTNET/Console/editorHtml/obj/Debug/net5.0/editorHtml.GeneratedMSBuildEditorConfig.editorconfig
+/media/inacio/HDD/CURSOS/DOTNET/Console/editorHtml/obj/Debug/net5.0/editorHtml.AssemblyInfoInputs.cache
+/media/inacio/HDD/CURSOS/DOTNET/Console/editorHtml/obj/Debug/net5.0/editorHtml.AssemblyInfo.cs
+/media/inacio/HDD/CURSOS/DOTNET/Console/editorHtml/obj/Debug/net5.0/editorHtml.csproj.CoreCompileInputs.cache
+/media/inacio/HDD/CURSOS/DOTNET/Console/editorHtml/obj/Debug/net5.0/editorHtml.dll
+/media/inacio/HDD/CURSOS/DOTNET/Console/editorHtml/obj/Debug/net5.0/ref/editorHtml.dll
+/media/inacio/HDD/CURSOS/DOTNET/Console/editorHtml/obj/Debug/net5.0/editorHtml.pdb
+/media/inacio/HDD/CURSOS/DOTNET/Console/editorHtml/obj/Debug/net5.0/editorHtml.genruntimeconfig.cache
