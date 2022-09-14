@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": ".NET Core Launch (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/bin/Debug/net5.0/calculadora.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+    {
+        "name": ".NET Core Attach",
+        "type": "coreclr",
+        "request": "attach"
+    }
+    ]
+}
