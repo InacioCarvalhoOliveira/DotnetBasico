@@ -1,4 +1,5 @@
 ﻿using System;
+using CadastroDeCliente;
 
 namespace Oop
 {
@@ -7,6 +8,7 @@ namespace Oop
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
         }
     }
 }
