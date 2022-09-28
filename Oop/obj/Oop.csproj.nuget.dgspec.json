@@ -1,25 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/HDD/CURSOS/DOTNET/Console/Oop/Oop.csproj": {}
+    "D:\\CSH\\Balta.io\\oop\\Oop.csproj": {}
   },
   "projects": {
-    "/mnt/HDD/CURSOS/DOTNET/Console/Oop/Oop.csproj": {
+    "D:\\CSH\\Balta.io\\oop\\Oop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/HDD/CURSOS/DOTNET/Console/Oop/Oop.csproj",
+        "projectUniqueName": "D:\\CSH\\Balta.io\\oop\\Oop.csproj",
         "projectName": "Oop",
-        "projectPath": "/mnt/HDD/CURSOS/DOTNET/Console/Oop/Oop.csproj",
-        "packagesPath": "/home/inacio/.nuget/packages/",
-        "outputPath": "/mnt/HDD/CURSOS/DOTNET/Console/Oop/obj/",
+        "projectPath": "D:\\CSH\\Balta.io\\oop\\Oop.csproj",
+        "packagesPath": "C:\\Users\\inacio.oliveira.SENIORSOLUTION\\.nuget\\packages\\",
+        "outputPath": "D:\\CSH\\Balta.io\\oop\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/home/inacio/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\inacio.oliveira.SENIORSOLUTION\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\GitHub\\SQCONS-PLENOWEB\\Pleno\\Pleno.Web\\bin": {},
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
         }
       }
     }
