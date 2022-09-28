@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CSH\\Balta.io\\oop\\Oop.csproj",
-      "projectName": "Oop",
-      "projectPath": "D:\\CSH\\Balta.io\\oop\\Oop.csproj",
+      "projectUniqueName": "D:\\CSH\\Balta.io\\MaoNaMassaOrientacaoAObjeto\\MaoNaMassaOrientacaoAObjeto.csproj",
+      "projectName": "MaoNaMassaOrientacaoAObjeto",
+      "projectPath": "D:\\CSH\\Balta.io\\MaoNaMassaOrientacaoAObjeto\\MaoNaMassaOrientacaoAObjeto.csproj",
       "packagesPath": "C:\\Users\\inacio.oliveira.SENIORSOLUTION\\.nuget\\packages\\",
-      "outputPath": "D:\\CSH\\Balta.io\\oop\\obj\\",
+      "outputPath": "D:\\CSH\\Balta.io\\MaoNaMassaOrientacaoAObjeto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

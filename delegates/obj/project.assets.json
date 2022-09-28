@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CSH\\Balta.io\\oop\\Oop.csproj",
-      "projectName": "Oop",
-      "projectPath": "D:\\CSH\\Balta.io\\oop\\Oop.csproj",
+      "projectUniqueName": "D:\\CSH\\Balta.io\\delegates\\delegates.csproj",
+      "projectName": "delegates",
+      "projectPath": "D:\\CSH\\Balta.io\\delegates\\delegates.csproj",
       "packagesPath": "C:\\Users\\inacio.oliveira.SENIORSOLUTION\\.nuget\\packages\\",
-      "outputPath": "D:\\CSH\\Balta.io\\oop\\obj\\",
+      "outputPath": "D:\\CSH\\Balta.io\\delegates\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
