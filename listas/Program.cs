@@ -11,29 +11,28 @@ namespace listas
         {
             Console.WriteLine("Hello World!");
             /*
-            List - lista tudo 
-            IEnumerable 
-
-            
+            List - tipo genérico de lista 
+            List<T> : IList<T>, ICollection<T>, IEnumerable<T>, IEnumerable, IList, ICollection, IReadOnlyList<T>, IReadOnlyCollection<T>
+            implementação: 
+            IEnumerable, IList         
             */
-            var pagamentos = new IEnumerable<Pagamento>();
+
+            // var teste = new List<Pagamento>();
+
+            var pagamentos = new List<Pagamento>();
+       
             pagamentos.Add(new Pagamento(0));
             pagamentos.Add(new Pagamento(1));
             pagamentos.Add(new Pagamento(2));
             pagamentos.Add(new Pagamento(3));
 
-            foreach (var item in pagamentos)
+            foreach (var p in pagamentos)
             {
-                Console.WriteLine(item.Id);
+                Console.WriteLine(p.Id);
             }
-            /*
-            listagem modos: 
-            Where: 
-            
-            
-            */                     
-            var pagamentoA = pagamentos.Where(x => x.Id == 3);  
-            Console.WriteLine(pagamentoA.Id);          
+         
+             var ver = pagamentos.Where(x => x.Id == 3);  
+             Console.WriteLine(ver.AsEnumerable(2));          
         }
     }
     public class Pagamento
