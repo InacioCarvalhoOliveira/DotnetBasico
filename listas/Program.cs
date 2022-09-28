@@ -31,8 +31,8 @@ namespace listas
                 Console.WriteLine(p.Id);
             }
          
-             var ver = pagamentos.Where(x => x.Id == 3);  
-             Console.WriteLine(ver.AsEnumerable(2));          
+             var ver = pagamentos.First(x => x.Id == 3);  
+             Console.WriteLine(ver.Id);          
         }
     }
     public class Pagamento
