@@ -1,0 +1,16 @@
+D:\CSH\Balta.io\listas\obj\Debug\net5.0\listas.csproj.AssemblyReference.cache
+D:\CSH\Balta.io\listas\obj\Debug\net5.0\listas.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSH\Balta.io\listas\obj\Debug\net5.0\listas.AssemblyInfoInputs.cache
+D:\CSH\Balta.io\listas\obj\Debug\net5.0\listas.AssemblyInfo.cs
+D:\CSH\Balta.io\listas\obj\Debug\net5.0\listas.csproj.CoreCompileInputs.cache
+D:\CSH\Balta.io\listas\bin\Debug\net5.0\listas.exe
+D:\CSH\Balta.io\listas\bin\Debug\net5.0\listas.deps.json
+D:\CSH\Balta.io\listas\bin\Debug\net5.0\listas.runtimeconfig.json
+D:\CSH\Balta.io\listas\bin\Debug\net5.0\listas.runtimeconfig.dev.json
+D:\CSH\Balta.io\listas\bin\Debug\net5.0\listas.dll
+D:\CSH\Balta.io\listas\bin\Debug\net5.0\ref\listas.dll
+D:\CSH\Balta.io\listas\bin\Debug\net5.0\listas.pdb
+D:\CSH\Balta.io\listas\obj\Debug\net5.0\listas.dll
+D:\CSH\Balta.io\listas\obj\Debug\net5.0\ref\listas.dll
+D:\CSH\Balta.io\listas\obj\Debug\net5.0\listas.pdb
+D:\CSH\Balta.io\listas\obj\Debug\net5.0\listas.genruntimeconfig.cache
