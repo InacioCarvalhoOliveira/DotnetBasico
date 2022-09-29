@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\csh\\Balta.io\\MaoNaMassaOop\\MaoNaMassaOop\\MaoNaMassaOop.csproj": {}
+    "D:\\CSH\\Balta.io\\MaoNaMassaOop\\MaoNaMassaOop\\MaoNaMassaOop.csproj": {}
   },
   "projects": {
-    "D:\\csh\\Balta.io\\MaoNaMassaOop\\MaoNaMassaOop\\MaoNaMassaOop.csproj": {
+    "D:\\CSH\\Balta.io\\MaoNaMassaOop\\MaoNaMassaOop\\MaoNaMassaOop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\csh\\Balta.io\\MaoNaMassaOop\\MaoNaMassaOop\\MaoNaMassaOop.csproj",
+        "projectUniqueName": "D:\\CSH\\Balta.io\\MaoNaMassaOop\\MaoNaMassaOop\\MaoNaMassaOop.csproj",
         "projectName": "MaoNaMassaOop",
-        "projectPath": "D:\\csh\\Balta.io\\MaoNaMassaOop\\MaoNaMassaOop\\MaoNaMassaOop.csproj",
+        "projectPath": "D:\\CSH\\Balta.io\\MaoNaMassaOop\\MaoNaMassaOop\\MaoNaMassaOop.csproj",
         "packagesPath": "C:\\Users\\inacio.oliveira.SENIORSOLUTION\\.nuget\\packages\\",
-        "outputPath": "D:\\csh\\Balta.io\\MaoNaMassaOop\\MaoNaMassaOop\\obj\\",
+        "outputPath": "D:\\CSH\\Balta.io\\MaoNaMassaOop\\MaoNaMassaOop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
