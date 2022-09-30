@@ -3,6 +3,7 @@ using System.Xml.Linq;
 using System.Collections.Generic;
 using System;
 using MaoNaMassaOop.ContentContext;
+using MaoNaMassaOop.SubscriptionContext;
 
 namespace MaoNaMassaOop 
 {
@@ -48,14 +49,20 @@ namespace MaoNaMassaOop
                 foreach (var item in career.Items.OrderBy(x=>x.Order))
                 {
                     Console.WriteLine($"{item.Order} - {item.Title}");
-                    Console.WriteLine($"{item.Course.Title}");
+                    Console.WriteLine($"{item.Course?.Title}");
+                    Console.WriteLine($"{item.Course?.Level}");
                     
+                    foreach (var notification in item.Notifications)
+                    {
+                        Console.WriteLine($"{notification.Property} - {notification.Message}");
+                        
+                    }         
                     
                 }
-                
-           }
-          
 
+                var payPalSubscriptions = new PayPalSubscription(); 
+                var student = new Student();
+           }
         }
     }
 }
