@@ -1,0 +1,16 @@
+D:\CSH\Balta.io\delegates\obj\Debug\net5.0\delegates.csproj.AssemblyReference.cache
+D:\CSH\Balta.io\delegates\obj\Debug\net5.0\delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSH\Balta.io\delegates\obj\Debug\net5.0\delegates.AssemblyInfoInputs.cache
+D:\CSH\Balta.io\delegates\obj\Debug\net5.0\delegates.AssemblyInfo.cs
+D:\CSH\Balta.io\delegates\obj\Debug\net5.0\delegates.csproj.CoreCompileInputs.cache
+D:\CSH\Balta.io\delegates\bin\Debug\net5.0\delegates.exe
+D:\CSH\Balta.io\delegates\bin\Debug\net5.0\delegates.deps.json
+D:\CSH\Balta.io\delegates\bin\Debug\net5.0\delegates.runtimeconfig.json
+D:\CSH\Balta.io\delegates\bin\Debug\net5.0\delegates.runtimeconfig.dev.json
+D:\CSH\Balta.io\delegates\bin\Debug\net5.0\delegates.dll
+D:\CSH\Balta.io\delegates\bin\Debug\net5.0\ref\delegates.dll
+D:\CSH\Balta.io\delegates\bin\Debug\net5.0\delegates.pdb
+D:\CSH\Balta.io\delegates\obj\Debug\net5.0\delegates.dll
+D:\CSH\Balta.io\delegates\obj\Debug\net5.0\ref\delegates.dll
+D:\CSH\Balta.io\delegates\obj\Debug\net5.0\delegates.pdb
+D:\CSH\Balta.io\delegates\obj\Debug\net5.0\delegates.genruntimeconfig.cache

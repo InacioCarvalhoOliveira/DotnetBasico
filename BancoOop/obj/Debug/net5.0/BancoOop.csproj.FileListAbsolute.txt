@@ -1,0 +1,16 @@
+/media/inacio/HDD/CURSOS/DOTNET/Console/NoGitHub/BancoOop/obj/Debug/net5.0/BancoOop.csproj.AssemblyReference.cache
+/media/inacio/HDD/CURSOS/DOTNET/Console/NoGitHub/BancoOop/obj/Debug/net5.0/BancoOop.GeneratedMSBuildEditorConfig.editorconfig
+/media/inacio/HDD/CURSOS/DOTNET/Console/NoGitHub/BancoOop/obj/Debug/net5.0/BancoOop.AssemblyInfoInputs.cache
+/media/inacio/HDD/CURSOS/DOTNET/Console/NoGitHub/BancoOop/obj/Debug/net5.0/BancoOop.AssemblyInfo.cs
+/media/inacio/HDD/CURSOS/DOTNET/Console/NoGitHub/BancoOop/obj/Debug/net5.0/BancoOop.csproj.CoreCompileInputs.cache
+/media/inacio/HDD/CURSOS/DOTNET/Console/NoGitHub/BancoOop/bin/Debug/net5.0/BancoOop
+/media/inacio/HDD/CURSOS/DOTNET/Console/NoGitHub/BancoOop/bin/Debug/net5.0/BancoOop.deps.json
+/media/inacio/HDD/CURSOS/DOTNET/Console/NoGitHub/BancoOop/bin/Debug/net5.0/BancoOop.runtimeconfig.json
+/media/inacio/HDD/CURSOS/DOTNET/Console/NoGitHub/BancoOop/bin/Debug/net5.0/BancoOop.runtimeconfig.dev.json
+/media/inacio/HDD/CURSOS/DOTNET/Console/NoGitHub/BancoOop/bin/Debug/net5.0/BancoOop.dll
+/media/inacio/HDD/CURSOS/DOTNET/Console/NoGitHub/BancoOop/bin/Debug/net5.0/ref/BancoOop.dll
+/media/inacio/HDD/CURSOS/DOTNET/Console/NoGitHub/BancoOop/bin/Debug/net5.0/BancoOop.pdb
+/media/inacio/HDD/CURSOS/DOTNET/Console/NoGitHub/BancoOop/obj/Debug/net5.0/BancoOop.dll
+/media/inacio/HDD/CURSOS/DOTNET/Console/NoGitHub/BancoOop/obj/Debug/net5.0/ref/BancoOop.dll
+/media/inacio/HDD/CURSOS/DOTNET/Console/NoGitHub/BancoOop/obj/Debug/net5.0/BancoOop.pdb
+/media/inacio/HDD/CURSOS/DOTNET/Console/NoGitHub/BancoOop/obj/Debug/net5.0/BancoOop.genruntimeconfig.cache
