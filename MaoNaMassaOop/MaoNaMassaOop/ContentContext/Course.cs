@@ -6,7 +6,8 @@ namespace MaoNaMassaOop.ContentContext
 {
     public class Course : Content
     {
-        public Course()
+        public Course(string title,string url)
+        :base(title,url)
         {// iniciando  lista  nome = new Lista<prop>
             Modules = new List<Module>();
         }

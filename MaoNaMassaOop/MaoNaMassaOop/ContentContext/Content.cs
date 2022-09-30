@@ -5,9 +5,11 @@ namespace MaoNaMassaOop.ContentContext
     {
         //guid - global unique identifier 
         // gera um id automaticamente
-        public Content()
+        public Content(string title, string url)
         {
             Id = Guid.NewGuid();
+            Title = title;
+            Url = url;
         }
 
         public Guid Id { get; set; }
