@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = cronometro
-build_property.ProjectDir = /mnt/HDD/CURSOS/DOTNET/Console/NoGitHub/cronometro/
+build_property.RootNamespace = Oop
+build_property.ProjectDir = /mnt/HDD/CURSOS/DOTNET/Console/NoGitHub/Oop/
