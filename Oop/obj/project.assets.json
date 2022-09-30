@@ -8,33 +8,24 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\inacio.oliveira.SENIORSOLUTION\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/home/inacio/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CSH\\Balta.io\\oop\\Oop.csproj",
+      "projectUniqueName": "/mnt/HDD/CURSOS/DOTNET/Console/NoGitHub/Oop/Oop.csproj",
       "projectName": "Oop",
-      "projectPath": "D:\\CSH\\Balta.io\\oop\\Oop.csproj",
-      "packagesPath": "C:\\Users\\inacio.oliveira.SENIORSOLUTION\\.nuget\\packages\\",
-      "outputPath": "D:\\CSH\\Balta.io\\oop\\obj\\",
+      "projectPath": "/mnt/HDD/CURSOS/DOTNET/Console/NoGitHub/Oop/Oop.csproj",
+      "packagesPath": "/home/inacio/.nuget/packages/",
+      "outputPath": "/mnt/HDD/CURSOS/DOTNET/Console/NoGitHub/Oop/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\inacio.oliveira.SENIORSOLUTION\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/inacio/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\GitHub\\SQCONS-PLENOWEB\\Pleno\\Pleno.Web\\bin": {},
-        "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -67,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
       }
     }
   }

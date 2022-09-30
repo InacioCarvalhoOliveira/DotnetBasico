@@ -1,5 +1,5 @@
 ﻿using System;
-using CadastroDeCliente;
+ 
 
 namespace Oop
 {
@@ -7,10 +7,6 @@ namespace Oop
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
-            Console.WriteLine("Hello World!");
-
-=======
             Console.Clear();
 
             /*
@@ -80,7 +76,6 @@ namespace Oop
         public void Dispose()
         {
             Console.WriteLine("finalizando classe");            
->>>>>>> 5f0a7df8476da00b533d488633a63a59f04cc3e9
         }
     }
 
