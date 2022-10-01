@@ -11,7 +11,6 @@ namespace MaoNaMassaOop.ContentContext
         public IList<CareerItem> Items { get; set; }
         public int TotalCourses => Items.Count;
 
-        var articles = new 
         
         
     }
