@@ -1,3 +1,20 @@
+<<<<<<< HEAD
+﻿using System;
+ 
+
+namespace Oop
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Clear();
+
+            /*
+                instancia classe Pagamento, para acessar os obejtos e métodos que 
+                forem acessívies(contanto que sejam públicos)            
+            */
+=======
 ﻿//  using System;
 
 //  namespace Oop
@@ -12,6 +29,7 @@
 //                  instancia classe Pagamento, para acessar os obejtos e métodos que 
 //                  forem acessívies(contanto que sejam públicos)            
 //              */
+>>>>>>> f1b84d5dc6ff24d60f7a0b6525e1748e6de6f256
             
 //              /*desta forma é necessário sempre inicializar o dispose, e, pode ocorrer de vc esquecer
 //              var Pagamento = new Pagamento();
@@ -73,11 +91,19 @@
 //              return r; 
 //          }
 
+<<<<<<< HEAD
+        public void Dispose()
+        {
+            Console.WriteLine("finalizando classe");            
+        }
+    }
+=======
 //          public void Dispose()
 //          {
 //              Console.WriteLine("finalizando classe");            
 //          }
 //      }
+>>>>>>> f1b84d5dc6ff24d60f7a0b6525e1748e6de6f256
 
 //      public class DadosDaContaCorrente 
 //      {
