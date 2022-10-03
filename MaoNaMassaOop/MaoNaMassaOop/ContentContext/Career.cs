@@ -13,6 +13,7 @@ namespace MaoNaMassaOop.ContentContext
         public int TotalCourses => Items.Count;
 
       //  var articles = new List<Article>(); 
+
         
         
     }
