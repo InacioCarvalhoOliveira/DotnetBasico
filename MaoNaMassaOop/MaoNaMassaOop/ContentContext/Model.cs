@@ -1,7 +1,9 @@
 using System.Collections.Generic;
+using MaoNaMassaOop.SharedContext;
+
 namespace MaoNaMassaOop.ContentContext
 {
-        public class Module
+        public class Module : Base
     {
         public Module()
         {// iniciando lista
