@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/inacio/HDD/CURSOS/DOTNET/Console/NoGitHub/BancoOop/BancoOop.csproj",
+      "projectUniqueName": "/mnt/HDD/CURSOS/DOTNET/Console/NoGitHub/BancoOop/BancoOop.csproj",
       "projectName": "BancoOop",
-      "projectPath": "/media/inacio/HDD/CURSOS/DOTNET/Console/NoGitHub/BancoOop/BancoOop.csproj",
+      "projectPath": "/mnt/HDD/CURSOS/DOTNET/Console/NoGitHub/BancoOop/BancoOop.csproj",
       "packagesPath": "/home/inacio/.nuget/packages/",
-      "outputPath": "/media/inacio/HDD/CURSOS/DOTNET/Console/NoGitHub/BancoOop/obj/",
+      "outputPath": "/mnt/HDD/CURSOS/DOTNET/Console/NoGitHub/BancoOop/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/inacio/.nuget/NuGet/NuGet.Config"

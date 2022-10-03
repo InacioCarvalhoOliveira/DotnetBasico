@@ -1,0 +1,16 @@
+D:\csh\Balta.io\MaoNaMassaOop\MaoNaMassaOop\bin\Debug\net5.0\MaoNaMassaOop.exe
+D:\csh\Balta.io\MaoNaMassaOop\MaoNaMassaOop\bin\Debug\net5.0\MaoNaMassaOop.deps.json
+D:\csh\Balta.io\MaoNaMassaOop\MaoNaMassaOop\bin\Debug\net5.0\MaoNaMassaOop.runtimeconfig.json
+D:\csh\Balta.io\MaoNaMassaOop\MaoNaMassaOop\bin\Debug\net5.0\MaoNaMassaOop.runtimeconfig.dev.json
+D:\csh\Balta.io\MaoNaMassaOop\MaoNaMassaOop\bin\Debug\net5.0\MaoNaMassaOop.dll
+D:\csh\Balta.io\MaoNaMassaOop\MaoNaMassaOop\bin\Debug\net5.0\ref\MaoNaMassaOop.dll
+D:\csh\Balta.io\MaoNaMassaOop\MaoNaMassaOop\bin\Debug\net5.0\MaoNaMassaOop.pdb
+D:\csh\Balta.io\MaoNaMassaOop\MaoNaMassaOop\obj\Debug\net5.0\MaoNaMassaOop.csproj.AssemblyReference.cache
+D:\csh\Balta.io\MaoNaMassaOop\MaoNaMassaOop\obj\Debug\net5.0\MaoNaMassaOop.GeneratedMSBuildEditorConfig.editorconfig
+D:\csh\Balta.io\MaoNaMassaOop\MaoNaMassaOop\obj\Debug\net5.0\MaoNaMassaOop.AssemblyInfoInputs.cache
+D:\csh\Balta.io\MaoNaMassaOop\MaoNaMassaOop\obj\Debug\net5.0\MaoNaMassaOop.AssemblyInfo.cs
+D:\csh\Balta.io\MaoNaMassaOop\MaoNaMassaOop\obj\Debug\net5.0\MaoNaMassaOop.csproj.CoreCompileInputs.cache
+D:\csh\Balta.io\MaoNaMassaOop\MaoNaMassaOop\obj\Debug\net5.0\MaoNaMassaOop.dll
+D:\csh\Balta.io\MaoNaMassaOop\MaoNaMassaOop\obj\Debug\net5.0\ref\MaoNaMassaOop.dll
+D:\csh\Balta.io\MaoNaMassaOop\MaoNaMassaOop\obj\Debug\net5.0\MaoNaMassaOop.pdb
+D:\csh\Balta.io\MaoNaMassaOop\MaoNaMassaOop\obj\Debug\net5.0\MaoNaMassaOop.genruntimeconfig.cache
